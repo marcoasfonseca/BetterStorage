@@ -1,0 +1,153 @@
+# Containers
+container.betterstorage.craftingStation=Estação de Trabalho
+container.betterstorage.backpack=Mochila
+container.betterstorage.cardboardBox=Caixa de Cartão
+container.betterstorage.crate=Caixote de Armazenamento
+container.betterstorage.enderBackpack=Mochila do Fim
+container.betterstorage.keyring=Porta-chaves
+container.betterstorage.locker=Armário
+container.betterstorage.lockerLarge=Armário Grande
+container.betterstorage.reinforcedChest=Baú Reforçado
+container.betterstorage.reinforcedChestLarge=Baú Grande Reforçado
+container.betterstorage.reinforcedLocker=Armário Reforçado
+container.betterstorage.reinforcedLockerLarge=Armário Grande Reforçado
+container.betterstorage.thaumcraftBackpack=Mochila de Thaumaturgo
+container.betterstorage.thaumiumChest=Baú de Thaumium
+container.betterstorage.thaumiumChestLarge=Baú de Thaumium Grande
+
+# Enchantments
+enchantment.betterstorage.key.lockpicking=Destrói Cadeado
+enchantment.betterstorage.key.morphing=Metamorfose
+enchantment.betterstorage.key.unlocking=Destrancado
+enchantment.betterstorage.lock.persistance=Persistência
+enchantment.betterstorage.lock.security=Segurança
+enchantment.betterstorage.lock.shock=Choque
+enchantment.betterstorage.lock.trigger=Gatilho
+
+# Entities
+entity.betterstorage.Frienderman.name=Enderman
+
+# Items
+item.betterstorage.bucketSlime.name=Slime num Balde
+item.betterstorage.cardboardAxe.name=Machado de Cartão
+item.betterstorage.cardboardBoots.name=Botas de Cartão
+item.betterstorage.cardboardChestplate.name=Peitoral de Cartão
+item.betterstorage.cardboardHelmet.name=Capacete de Cartão
+item.betterstorage.cardboardHoe.name=Enxada de Cartão
+item.betterstorage.cardboardLeggings.name=Perneiras de Cartão
+item.betterstorage.cardboardPickaxe.name=Picareta de Cartão
+item.betterstorage.cardboardSheet.name=Folha de Cartão
+item.betterstorage.cardboardShovel.name=Pá de Cartão
+item.betterstorage.cardboardSword.name=Espada de Cartão
+item.betterstorage.drinkingHelmet.name=Capacete de Bebidas
+item.betterstorage.key.name=Chave
+item.betterstorage.keyring.name=Porta-chaves
+item.betterstorage.lock.name=Cadeado
+item.betterstorage.masterKey.name=Chave Mestra
+
+# Creative tab
+itemGroup.betterstorage=BetterStorage
+
+# Keys
+key.betterstorage.backpackOpen=[BetterStorage] Abrir a Mochila
+key.betterstorage.drinkingHelmet=[BetterStorage] Usar o Capacete de Bebidas
+
+# Container materials
+material.betterstorage.iron=Ferro
+material.betterstorage.gold=Ouro
+material.betterstorage.diamond=Diamante
+material.betterstorage.emerald=Esmeralda
+material.betterstorage.copper=Cobre
+material.betterstorage.tin=Estanho
+material.betterstorage.silver=Prata
+material.betterstorage.steel=Aço
+material.betterstorage.zinc=Zinco
+
+# Thaumcraft
+tc.research_name.betterstorage.magicstorage=Armazenamento Mágico
+tc.research_text.betterstorage.magicstorage=Contentores encantados
+tc.research_page.betterstorage.magicstorage.1=Infundir uma mochila com magia e com materiais de natureza mágica melhorará a sua durabilidade total, a sua capacidade de armazenamento e os seus encantamentos. Enquanto a usares, os itens nela guardados serão capazes de se repararem, mais lentamente, a menos que a mochila também tenha o encantamento de autorreparo.<BR>Também é possível fundir um baú de ferro reforçado e um monte de thaumium, o que resultará num baú ainda mais resistente e com mais capacidade de armazenamento.
+
+# Blocks
+tile.betterstorage.craftingStation.name=Estação de Trabalho
+tile.betterstorage.armorStand.name=Suporte de Armaduras
+tile.betterstorage.backpack.cantEquip.backpack=Já tens uma mochila equipada.
+tile.betterstorage.backpack.cantEquip.chestplate=Não podes equipar uma mochila enquanto usas um peitoral
+tile.betterstorage.backpack.name=Mochila
+tile.betterstorage.cardboardBox.name=Caixa de Cartão
+tile.betterstorage.crate.name=Caixote de Armazenamento
+tile.betterstorage.enderBackpack.name=Mochila do Fim
+tile.betterstorage.flintBlock.name=Bloco de Pederneira
+tile.betterstorage.locker.name=Armário
+tile.betterstorage.reinforcedChest.name=Baú Reforçado
+tile.betterstorage.reinforcedChest.name.full=Baú de %MATERIAL% Reforçado
+tile.betterstorage.reinforcedLocker.name=Armário Reforçado
+tile.betterstorage.reinforcedLocker.name.full=Armário de %MATERIAL% Reforçado
+tile.betterstorage.thaumcraftBackpack.name=Mochila de Thaumaturgo
+tile.betterstorage.thaumiumChest.name=Baú de Thaumium
+tile.betterstorage.lockableDoor.name=Porta de Ferro Trancada
+tile.betterstorage.present.name=Prenda
+
+# Tooltips
+tooltip.betterstorage.backpack.bound=Mochila equipada.
+tooltip.betterstorage.backpack.containsItems=Contém itens.
+tooltip.betterstorage.backpack.equipHint=Colocar no chão e partir#enquanto agachado para equipar.
+tooltip.betterstorage.backpack.equipHint.extended=Agachar e partir para equipar.#Agachar e clicar direito no chão#com a mão vazia para desequipar.
+tooltip.betterstorage.backpack.openHint=Carrega %KEY% para abrir enquanto estiver equipada.
+tooltip.betterstorage.backpack.unequipHint=Agachar e clicar direito no chão#com a mão vazia para desequipar.
+tooltip.betterstorage.backpack.unequipHint.extended=%INFO% Agachar e clicar direito#no chão com a mão vazia para desequipar.
+tooltip.betterstorage.backpack.used=Atualmente a ser usado por um jogador.
+tooltip.betterstorage.bucketSlime.more.1=Mais 1 efeito ...
+tooltip.betterstorage.bucketSlime.more.x=Mais %X% efeitos ...
+tooltip.betterstorage.cardboardBox.useHint=Armazenamento portátil de uso único.
+tooltip.betterstorage.cardboardBox.useHint.reusable=Armazenamento portátil reutilizável.
+tooltip.betterstorage.cardboardBox.uses=Usos restantes: %USES%
+tooltip.betterstorage.cardboardBox.containsItems=Contém itens.
+tooltip.betterstorage.drinkingHelmet.craftHint=Constrói com uma poção de cada lado.
+tooltip.betterstorage.drinkingHelmet.useHint=Carrega %KEY% para dares um gole.
+tooltip.betterstorage.drinkingHelmet.uses=Usos restantes: %USES%
+
+# Config
+config.betterstorage.category.item=Itens
+config.betterstorage.category.item.tooltip=Alterar se um certo item está ativo.
+config.betterstorage.category.tile=Blocos
+config.betterstorage.category.tile.tooltip=Alterar se um certo bloco está ativo.
+config.betterstorage.category.enchantment=Encantamentos
+config.betterstorage.category.enchantment.tooltip=Muda os IDs dos encantamentos
+
+config.betterstorage.general.reinforcedColumns=Colunas Reforçadas
+config.betterstorage.general.reinforcedColumns.tooltip=Número de colunas em baús e armários reforçados. Os valores válidos são 9, 11 e 13.
+config.betterstorage.general.enableCrateInventoryInterface=Interface do Inventário do Caixote
+config.betterstorage.general.enableCrateInventoryInterface.tooltip=Se ativado, habilita um função especial nos blocos de armazenamento, para que os itens possam ser adicionados e retirados por sistemas automatizados.
+config.betterstorage.general.enableCrateStorageInterface=Interface de Armazenamento do Caixote
+config.betterstorage.general.enableCrateStorageInterface.tooltip=Se desativado, previne os mods de usarem a sua interface de armazenamento especial (como o "Applied Energistics").
+config.betterstorage.general.crateDebugMessages=Mensagens de Debug dos Caixotes
+config.betterstorage.general.crateDebugMessages.tooltip=Se ativado, regista as mensagens de debug do caixote (tal como as de salvar).
+config.betterstorage.general.backpackChestplate= Mochila no Espaço do Peitoral
+config.betterstorage.general.backpackChestplate.tooltip=Se desativado, as mochilas não ocupam o espaço do peitoral do jogador.
+config.betterstorage.general.backpackRows=Linhas na Mochila
+config.betterstorage.general.backpackRows.tooltip=Número de linhas na Mochila.
+config.betterstorage.general.enableBackpackOpen=Abrir a Mochila
+config.betterstorage.general.enableBackpackOpen.tooltip=Permite abrir as mochilas equipadas ao carregar na tecla definida.
+config.betterstorage.general.enableBackpackInteraction=Interação com a Mochila
+config.betterstorage.general.enableBackpackInteraction.tooltip=Permite a outros jogadores abrirem as mochilas equipadas ao carregarem direito nelas.
+config.betterstorage.general.dropBackpackOnDeath=Largar a Mochila
+config.betterstorage.general.dropBackpackOnDeath.tooltip=Se ativado, larga a mochila como um bloco ao invés de espalhar todos os itens.
+config.betterstorage.general.cardboardBoxRows=Linhas da Caixa de Cartão
+config.betterstorage.general.cardboardBoxRows.tooltip=Número de linhas das caixas de cartão.
+config.betterstorage.general.cardboardBoxUses=Usos da Caixa de Cartão
+config.betterstorage.general.cardboardBoxUses.tooltip=Número de vezes que a caixa de cartão pode ser pegada com itens antes que se parta. Usar 0 para usos infinitos.
+config.betterstorage.general.cardboardBoxShowContents=Exibir Conteúdo da Caixa de Cartão
+config.betterstorage.general.cardboardBoxShowContents.tooltip=Se desativado, não mostra o conteúdo da caixa de cartão quando o cursor estiver sobre ela.
+config.betterstorage.general.enableStationAutoCrafting=Construção Automática da Estação de Trabalho
+config.betterstorage.general.enableStationAutoCrafting.tooltip=Se ativado, a estação de trabalho construirá automaticamente que consequentemente podem ser retirados por sistemas automatizados.
+config.betterstorage.general.stationAutocraftDelay=Atraso da Construção Automática
+config.betterstorage.general.stationAutocraftDelay.tooltip=Atraso, em ticks, entre a construção automática de itens.
+config.betterstorage.general.lockBreakable=Cadeados Quebráveis
+config.betterstorage.general.lockBreakable.tooltip=Se desativado, desliga a habilidade de se partir cadeados de contentores trancados ao usar ferramentas.
+config.betterstorage.general.enableHelpTooltips=Dicas
+config.betterstorage.general.enableHelpTooltips.tooltip=Se ativado, mostra dicas nalguns itens para ajudar jogadores novatos.
+config.betterstorage.general.enableWarningMessages=Mensagens de Debug
+config.betterstorage.general.enableWarningMessages.tooltip=Se desativado, previne certas mensagens de aviso de serem mostradas na consola.
+config.betterstorage.general.enableChristmasEvent=Evento de Natal
+config.betterstorage.general.enableChristmasEvent.tooltip=Se desativado, previne o evento de Natal de acontecer. Seu monstro.
